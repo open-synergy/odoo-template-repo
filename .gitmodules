@@ -1,0 +1,8 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/odoo/odoo.git
+	branch = 8.0
+[submodule "oca-web"]
+	path = oca-web
+	url = https://github.com/OCA/web.git
+	branch = 8.0
